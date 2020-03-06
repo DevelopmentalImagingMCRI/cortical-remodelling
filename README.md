@@ -1,7 +1,7 @@
 ### Example code for running PLS analysis of relative cortical thickness change and gene expression data
 
 For details of analysis see:  
-Ball, Seidlitz, Beare & Seal, biorxiv 2018  
+Ball, Seidlitz, Beare & Seal, biorxiv 2019  
 
 Cortical remodelling in childhood is associated with genes enriched for neurodevelopmental disorders   
 https://www.biorxiv.org/content/10.1101/707042v1
